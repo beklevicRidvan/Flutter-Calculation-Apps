@@ -1,0 +1,2 @@
+# Flutter-Calculation-Apps
+ Bu repo, Flutter kullanarak geliştirilmiş çeşitli hesaplama odaklı mobil uygulama projelerini içerir. Her bir uygulama, farklı matematiksel işlemleri gerçekleştirmek veya belirli hesaplama görevlerini yerine getirmek için tasarlanmıştır. Uygulamalar, kullanıcıların matematiksel işlemleri kolayca yapmalarına ve hesaplama gereksinimlerini karşılamalarına yardımcı olur. Flutter ile mobil uygulama geliştirme becerilerini artırmak ve hesaplama odaklı uygulamalar üzerinde çalışmak isteyen geliştiriciler için bir kaynak sağlar.
